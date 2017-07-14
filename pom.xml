@@ -15,7 +15,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<mainClass>${project.groupId}.${project.artifactId}.LauncherMain</mainClass>
-		<buildNumber>0</buildNumber>
+		<buildNumber>349</buildNumber>
 	</properties>
 
 	<!-- Company information -->
