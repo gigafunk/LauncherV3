@@ -308,7 +308,7 @@
 	            </property>
 	        </activation>
 	        <properties>
-	            <buildNumber>0</buildNumber>
+	            <buildNumber>349</buildNumber>
 	        </properties>
 	    </profile>
 	    <profile>
